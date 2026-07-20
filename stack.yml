@@ -4,7 +4,7 @@ title: FastAPI
 
 services:
 - name: fastapi
-  title: FastAPI
+  title: Python
   service: fastapi
   required: true
   links:

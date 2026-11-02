@@ -11,6 +11,7 @@ composition for FastAPI.
 
 - [FastAPI stack on Wodby](https://wodby.com/stacks/fastapi)
 - [Browse Wodby application stacks](https://wodby.com/stacks)
+- [FastAPI stack guide](https://wodby.com/docs/2.0/stacks/catalog/fastapi/)
 - [Wodby stack documentation](https://wodby.com/docs/2.0/stacks/)
 - [Stack manifest reference](https://wodby.com/docs/2.0/stacks/template/)
 

@@ -2,6 +2,7 @@ name: fastapi
 icon: fastapi
 docs: https://wodby.com/docs/2.0/stacks/catalog/fastapi/
 title: FastAPI
+category: frameworks
 
 services:
 - name: fastapi
